@@ -1,0 +1,13 @@
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\bin\Debug\FileExplorer.exe.config
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\bin\Debug\FileExplorer.exe
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\bin\Debug\FileExplorer.pdb
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.csprojAssemblyReference.cache
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.AboutForm.resources
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.AttributeForm.resources
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.MainForm.resources
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.NewFileForm.resources
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.exe
+D:\1. LMS\Lap-trinh-giao-dien\FileExplorer\obj\Debug\FileExplorer.pdb
